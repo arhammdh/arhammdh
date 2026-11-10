@@ -49,6 +49,17 @@ Key wins:
 | 🔐 Two-Way Auth via Twilio - OTP generation and two-way phone-based authentication service | C#, Twilio |
 | 📄 HTML-to-PDF Conversion - Automated document generation service converting HTML content to PDF | C# |
 
+### 🧠 More AI/ML builds
+
+| Project | Stack |
+|:---|:---|
+| 🔎 [AI Agent - RAG + Web Search](https://github.com/arhammdh/ai-agent-rag-web-search) - Agent that answers from your documents and falls back to live web search when local context isn't enough | Python, RAG, Web Search |
+| 🌦️ [Intelligent Doc + Weather Bot](https://github.com/arhammdh/intelligent-doc-weather-bot) - RAG document search combined with a weather API, orchestrated as a multi-step agent graph | Python, LangGraph, LangChain, LangSmith, ChromaDB |
+| 💬 [Chat Bots](https://github.com/arhammdh/Chat_Bots) - Lightweight single-page conversational chatbot | Python |
+| 📚 RAG Pipeline - Simplified retrieval-augmented generation pipeline for document Q&A | Python |
+| ♟️ Chess with Reinforcement Learning - Chess-playing agent trained via reinforcement learning | Python, RL |
+| 🪪 Face Detection Login - Face-recognition based registration and login using real-time camera access | Python |
+
 ### 🛠️ Tech stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
